@@ -3,9 +3,6 @@ package lotto;
 import java.util.List;
 import java.util.Random;
 
-/*
-로또
-* */
 public class NewLottoMain {
     public static void main(String[] args) {
         Random random = new Random();
